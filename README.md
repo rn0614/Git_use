@@ -31,7 +31,7 @@
 
 6. `git status` 로 상태 확인 `git add [파일명]`,  `git commit -m "변경점"`  으로 로그 생성
 
-7. `git remote add origin [주소]`를 입력 `git push --set-upstream origin master` 로 파일 보내기
+7. `git remote add origin [주소]`를 입력 `git push --set-upstream origin master` or `git push origin master` 로 파일 보내기
 
 
 
